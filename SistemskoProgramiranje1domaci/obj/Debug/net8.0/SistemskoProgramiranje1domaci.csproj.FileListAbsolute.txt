@@ -1,0 +1,17 @@
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\bin\Debug\net8.0\SistemskoProgramiranje1domaci.exe
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\bin\Debug\net8.0\SistemskoProgramiranje1domaci.deps.json
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\bin\Debug\net8.0\SistemskoProgramiranje1domaci.runtimeconfig.json
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\bin\Debug\net8.0\SistemskoProgramiranje1domaci.dll
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\bin\Debug\net8.0\SistemskoProgramiranje1domaci.pdb
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.csproj.AssemblyReference.cache
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.AssemblyInfoInputs.cache
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.AssemblyInfo.cs
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.csproj.CoreCompileInputs.cache
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\Sistemsk.91674EBC.Up2Date
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.dll
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\refint\SistemskoProgramiranje1domaci.dll
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.pdb
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\SistemskoProgramiranje1domaci.genruntimeconfig.cache
+D:\Za FAKS\3. godina\6. SEMESTAR\Sistemsko programiranje\aaaKONACNO\Podeljeno u klase\SistemskoProgramiranje1domaci\SistemskoProgramiranje1domaci\obj\Debug\net8.0\ref\SistemskoProgramiranje1domaci.dll
