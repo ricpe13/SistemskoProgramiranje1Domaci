@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemskoProgramiranje1domaci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d930af06437ce583a5ad0e60349c22bda79039")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemskoProgramiranje1domaci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemskoProgramiranje1domaci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

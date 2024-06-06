@@ -4,14 +4,8 @@ using System.Threading;
 
 class HttpServer
 {
-    static WebClient _client = new WebClient();
-    public static WebClient client
-    {
-        get
-        {
-            return _client;
-        }
-    }
+    public static WebClient client = new WebClient();
+
 
     public static void StartServer()
     {
@@ -20,7 +14,7 @@ class HttpServer
         listener.Start();
         Console.WriteLine("Server je pokrenut");
         Console.WriteLine("http://localhost:5000/");
-       
+
 
         while (true)
         {

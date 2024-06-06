@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Za FAKS\\3. godina\\6. SEMESTAR\\Sistemsko programiranje\\aaaKONACNO\\Podeljeno u klase\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci.csproj",
+      "projectUniqueName": "D:\\Za FAKS\\3. godina\\6. SEMESTAR\\Sistemsko programiranje\\1. domaci\\SistemskoProgramiranje1Domaci\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci.csproj",
       "projectName": "SistemskoProgramiranje1domaci",
-      "projectPath": "D:\\Za FAKS\\3. godina\\6. SEMESTAR\\Sistemsko programiranje\\aaaKONACNO\\Podeljeno u klase\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci.csproj",
+      "projectPath": "D:\\Za FAKS\\3. godina\\6. SEMESTAR\\Sistemsko programiranje\\1. domaci\\SistemskoProgramiranje1Domaci\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci.csproj",
       "packagesPath": "C:\\Users\\Pavle\\.nuget\\packages\\",
-      "outputPath": "D:\\Za FAKS\\3. godina\\6. SEMESTAR\\Sistemsko programiranje\\aaaKONACNO\\Podeljeno u klase\\SistemskoProgramiranje1domaci\\SistemskoProgramiranje1domaci\\obj\\",
+      "outputPath": "D:\\Za FAKS\\3. godina\\6. SEMESTAR\\Sistemsko programiranje\\1. domaci\\SistemskoProgramiranje1Domaci\\SistemskoProgramiranje1domaci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pavle\\AppData\\Roaming\\NuGet\\NuGet.Config",
